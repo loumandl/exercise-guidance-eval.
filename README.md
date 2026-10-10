@@ -24,3 +24,4 @@ Responses were scored in a spreadsheet, then loaded into a Python notebook to ca
 
 ## Next steps
 Change needed: Add a red-flag rule so symptom-related questions trigger a referral message.
+Add a second reviewer to check scoring agreement.
